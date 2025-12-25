@@ -1,0 +1,21 @@
+body {
+  background: #12091f;
+  color: #e6d9ff;
+  font-family: system-ui, sans-serif;
+}
+
+button {
+  background: #7d4cff;
+  color: white;
+  border: none;
+  margin: 4px;
+  padding: 8px 14px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+canvas {
+  margin-top: 12px;
+  background: #1c0f2e;
+  border-radius: 8px;
+}
